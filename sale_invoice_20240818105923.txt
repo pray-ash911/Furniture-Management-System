@@ -1,0 +1,17 @@
+----------------------------------------
+Customer name:prayas
+----------------------------------------
+
+ID: 1
+Manufacturer:  HNI Corporation
+Product:  Bunk Bed
+Quantity: 1
+Price: $400
+Date: 2024-08-18 10:59:19.552606
+----------------------------------------
+
+Total Amount: $400.0
+VAT: $52.0
+Shipping Cost: $50
+Total amount: $502.0
+----------------------------------------

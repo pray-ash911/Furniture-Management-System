@@ -1,0 +1,17 @@
+----------------------------------------
+Employee name:prayash
+----------------------------------------
+
+ID: 2
+Manufacturer:  Haworth Inc.
+Product:  Twin Bed
+Quantity: 2
+Price: $600
+Date: 2024-08-18 10:59:34.872261
+----------------------------------------
+
+Total Amount: $1200.0
+VAT: $156.0
+Shipping Cost: $0
+Total amount: $1356.0
+----------------------------------------
